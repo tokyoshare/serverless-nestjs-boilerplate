@@ -24,5 +24,13 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Access api
+
+Swagger Document: 
+http://localhost:3000/api/docs
+
+Api: 
+GET api/ping: http://localhost:3000/api/ping
+
 ## Deploy
 
